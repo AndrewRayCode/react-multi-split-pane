@@ -1,5 +1,5 @@
 {
-	"name": "react-multi-split-pane",
+	"name": "@andrewray/react-multi-split-pane",
 	"description": "React multi split-pane component",
 	"main": "dist/index.js",
 	"source": "src/index.ts",
@@ -7,7 +7,7 @@
 		"dist",
 		"!dist/**/*.map"
 	],
-	"version": "0.3.3",
+	"version": "0.3.4",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/neoraider/react-multi-split-pane"
